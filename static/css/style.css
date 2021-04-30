@@ -1,0 +1,13 @@
+body {
+    padding: 0px;
+    margin: 0px;
+  }
+#map,
+body,
+html {
+  height: 100%;
+}
+#bar {width:40%} 
+#interactivebar {width:40%} 
+
+.container {margin-top: 40px;}
